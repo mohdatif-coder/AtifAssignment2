@@ -68,5 +68,81 @@ namespace AtifAssignment2Tests
             Assert.AreEqual("Isosceles", result);
         }
 
+        // Tests for valid scalene triangles
+        [Test]
+        public void ValidTriangle_AllSidesDifferent_ReturnsScalene()
+        {
+            // Arrange
+            int firstAngle = 3;
+            int secondAngle = 4;
+            int thirdAngle = 5;
+
+            // Act
+            string result = Triangle.ValidTriangle(firstAngle, secondAngle, thirdAngle);
+
+            // Assert
+            Assert.AreEqual("Scalene", result);
+        }
+
+        [Test]
+        public void ValidTriangle_AllSidesDifferentLargeNumbers_ReturnsScalene()
+        {
+            // Arrange
+            int firstAngle = 100;
+            int secondAngle = 101;
+            int thirdAngle = 102;
+
+            // Act
+            string result = Triangle.ValidTriangle(firstAngle, secondAngle, thirdAngle);
+
+            // Assert
+            Assert.AreEqual("Scalene", result);
+        }
+
+        [Test]
+        public void ValidTriangle_AllSidesDifferentSmallNumbers_ReturnsScalene()
+        {
+            // Arrange
+            int firstAngle = 2;
+            int secondAngle = 3;
+            int thirdAngle = 4;
+
+            // Act
+            string result = Triangle.ValidTriangle(firstAngle, secondAngle, thirdAngle);
+
+            // Assert
+            Assert.AreEqual("Scalene", result);
+        }
+
+        [Test]
+        public void ValidTriangle_AllSidesDifferentCloseValues_ReturnsScalene()
+        {
+            // Arrange
+            int firstAngle = 10;
+            int secondAngle = 11;
+            int thirdAngle = 12;
+
+            // Act
+            string result = Triangle.ValidTriangle(firstAngle, secondAngle, thirdAngle);
+
+            // Assert
+            Assert.AreEqual("Scalene", result);
+        }
+
+        [Test]
+        public void ValidTriangle_AllSidesDifferentPrimeNumbers_ReturnsScalene()
+        {
+            // Arrange
+            int firstAngle = 11;
+            int secondAngle = 13;
+            int thirdAngle = 17;
+
+            // Act
+            string result = Triangle.ValidTriangle(firstAngle, secondAngle, thirdAngle);
+
+            // Assert
+            Assert.AreEqual("Scalene", result);
+        }
+
     }
 }

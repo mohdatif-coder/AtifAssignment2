@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{1C7F0D1C-6D08-4532-A520-8699D7F42F5F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TriangleUnitTest/TriangleTest.cs">
+    <Files>
+      <File FileName="TriangleUnitTest/TriangleTest.cs" Line="150" Column="1" />
+      <File FileName="TriangleUnitTest/GlobalUsings.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AtifAssignment2" expanded="True">
+            <Node name="AtifAssignment2" expanded="True" />
+            <Node name="TriangleUnitTest" expanded="True">
+              <Node name="TriangleTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="AtifAssignment2" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TriangleUnitTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

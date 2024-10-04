@@ -1,0 +1,11 @@
+/Users/vivekthakur/Projects/AtifAssignment2/AtifAssignment2/bin/Debug/net7.0/AtifAssignment2.deps.json
+/Users/vivekthakur/Projects/AtifAssignment2/AtifAssignment2/bin/Debug/net7.0/AtifAssignment2.dll
+/Users/vivekthakur/Projects/AtifAssignment2/AtifAssignment2/bin/Debug/net7.0/AtifAssignment2.pdb
+/Users/vivekthakur/Projects/AtifAssignment2/AtifAssignment2/obj/Debug/net7.0/AtifAssignment2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vivekthakur/Projects/AtifAssignment2/AtifAssignment2/obj/Debug/net7.0/AtifAssignment2.AssemblyInfoInputs.cache
+/Users/vivekthakur/Projects/AtifAssignment2/AtifAssignment2/obj/Debug/net7.0/AtifAssignment2.AssemblyInfo.cs
+/Users/vivekthakur/Projects/AtifAssignment2/AtifAssignment2/obj/Debug/net7.0/AtifAssignment2.csproj.CoreCompileInputs.cache
+/Users/vivekthakur/Projects/AtifAssignment2/AtifAssignment2/obj/Debug/net7.0/AtifAssignment2.dll
+/Users/vivekthakur/Projects/AtifAssignment2/AtifAssignment2/obj/Debug/net7.0/refint/AtifAssignment2.dll
+/Users/vivekthakur/Projects/AtifAssignment2/AtifAssignment2/obj/Debug/net7.0/AtifAssignment2.pdb
+/Users/vivekthakur/Projects/AtifAssignment2/AtifAssignment2/obj/Debug/net7.0/ref/AtifAssignment2.dll
